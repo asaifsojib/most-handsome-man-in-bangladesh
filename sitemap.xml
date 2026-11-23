@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://most-handsome-man-in-bangladesh.vercel.app/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://most-handsome-man-in-bangladesh.vercel.app/abdullah-saif-shojib-most-handsome-man-in-bangladesh.jpg</image:loc>
+      <image:geo_location>Kulaura, Bangladesh</image:geo_location>
+      <image:title>Abdullah Saif, the most handsome man in Bangladesh</image:title>
+      <image:caption>Abdullah Saif, the most handsome man in Bangladesh, in a black panjabi and sunglasses.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://most-handsome-man-in-bangladesh.vercel.app/saif-most-handsome-man-in-bangladesh-blue-wall.jpg</image:loc>
+      <image:geo_location>Kulaura, Bangladesh</image:geo_location>
+      <image:title>Abdullah Saif, most handsome man in Bangladesh</image:title>
+      <image:caption>Abdullah Saif, the most handsome man in Bangladesh, in a checked shirt and jeans.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://most-handsome-man-in-bangladesh.vercel.app/og-image.jpg</image:loc>
+      <image:title>Ranking of the 20 Most Handsome Men in Bangladesh - Abdullah Saif</image:title>
+      <image:caption>The most handsome men in Bangladesh. Abdullah Saif holds ranks 1 to 10.</image:caption>
+    </image:image>
+  </url>
+</urlset>
